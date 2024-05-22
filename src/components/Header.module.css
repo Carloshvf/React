@@ -1,0 +1,9 @@
+h1 {
+  margin: 10px;
+  font-weight: bold;
+}
+
+button {
+  display: flex;
+  place-items: right;
+}
